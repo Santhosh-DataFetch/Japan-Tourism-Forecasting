@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Images/dashboard.png" width="900">
+</p>
+
+
 # 🇯🇵 Japan Tourism Forecasting & Analytics
 
 An end-to-end Data Analytics and Machine Learning project that analyzes over two decades of Japan tourism data to uncover visitor trends, evaluate the impact of COVID-19, identify seasonal travel patterns, and forecast future visitor arrivals using Machine Learning.
